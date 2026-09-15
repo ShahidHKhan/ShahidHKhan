@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Engineer+%40+SUNY+New+Paltz;Building+RAG+systems+%26+LLM-powered+tools;Python+%7C+Applied+AI+%7C+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=AI+Engineer+%40+SUNY+New+Paltz;Building+RAG+systems+%26+LLM-powered+tools;Python+%7C+Applied+AI+%7C+Full-Stack" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -10,7 +10,7 @@
 
 B.S. in CS @ SUNY New Paltz
 
-*I build RAG systems, LLM-powered tools, and ML pipelines that real teams use every day.*
+*I build RAG systems, LLM-powered tools, ML pipelines, and real-time web apps.*
 *Currently an IT Technician at SUNY New Paltz, where the AI tools I built are part of the service desk's daily workflow.*
 
 <br/>
@@ -56,9 +56,9 @@ B.S. in CS @ SUNY New Paltz
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>🗓️ Desk-Scheduler</h3>
-      <p>Builds the IT service desk's semester work schedule automatically. Gemini parses messy availability forms (PDFs, spreadsheets, photos), and Google OR-Tools solves the schedule under 6 hard rules, with an LLM-as-a-judge checking the explanations when a schedule can't be built. Cut schedule creation from 4 weeks to 2.</p>
+      <p>Builds the IT service desk's semester work schedule automatically. Gemini parses messy availability forms (PDFs, spreadsheets, photos), and Google OR-Tools solves the schedule under 6 hard rules, with an LLM-as-a-judge checking explanations when a schedule can't be built. Cut schedule creation from 4 weeks to 2.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
@@ -67,6 +67,20 @@ B.S. in CS @ SUNY New Paltz
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
       </p>
       <a href="https://github.com/ShahidHKhan/scheduler">View Project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>♟️ Chamble</h3>
+      <p>Chess + gamble. A real-time multiplayer chess platform with three variants: win a blackjack hand to keep a capture (Chess-21), solve a math challenge to capture (Chess-Matics), or move only the piece a roulette wheel lands on (Chess-Roulette). ELO wagers, room-code invites, and custom JWT auth with email verification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
+      </p>
+      <a href="https://github.com/ShahidHKhan/chamble">View Project →</a>
+      &nbsp;
+      <a href="https://chamble.net"><img src="https://img.shields.io/badge/Live-chamble.net-22C55E?style=flat"/></a>
     </td>
   </tr>
 </table>
@@ -117,10 +131,13 @@ B.S. in CS @ SUNY New Paltz
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-**Backend & Apps**
+**Web & Backend**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
 
@@ -132,6 +149,8 @@ B.S. in CS @ SUNY New Paltz
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Modal](https://img.shields.io/badge/Modal-000000?style=for-the-badge&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-8B5CF6?style=for-the-badge&logo=flydotio&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white)
 
 </div>
