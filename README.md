@@ -68,20 +68,19 @@ B.S. in CS @ SUNY New Paltz
       </p>
       <a href="https://github.com/ShahidHKhan/scheduler">View Project →</a>
     </td>
-    <td width="50%" valign="top">
-      <h3>♟️ Chamble</h3>
-      <p>Chess + gamble. A real-time multiplayer chess platform with three variants: win a blackjack hand to keep a capture (Chess-21), solve a math challenge to capture (Chess-Matics), or move only the piece a roulette wheel lands on (Chess-Roulette). ELO wagers, room-code invites, and custom JWT auth with email verification.</p>
+        <td width="50%" valign="top">
+      <h3>🏃 Rebound</h3>
+      <p>Senior capstone. An AI coach that keeps athletes training through minor injuries, without a referral or insurance. Enter the body part that hurts, and an Express/Postgres backend pulls matching candidates from a 30+ exercise library before Gemini picks three and assigns sets and reps. Plans are editable and saved, so you can tune the routine as you recover.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=googlegemini&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
       </p>
-      <a href="https://github.com/ShahidHKhan/chamble">View Project →</a>
-      &nbsp;
-      <a href="https://chamble.net"><img src="https://img.shields.io/badge/Live-chamble.net-22C55E?style=flat"/></a>
+      <a href="https://github.com/Ahmed0754/rebound">View Project →</a>
     </td>
+
   </tr>
 </table>
 
